@@ -26,13 +26,13 @@ Tags also added to denote specific test types/areas - currently only 3 tags in u
 12.	Perform an accessibility scan of the web page (NOTE: this test will always fail but this is expected)
 
 I've also integrated these tests in an Azure DevOps pipeline so they can be ran as part of a regression pack or on a schedule *(for now a schedule has not been set)*.
-Azure DevOps project can be found using this link and the project is public so users will be able to view the Build & Release pipelines along with test results: https://dev.azure.com/adammcclintock0222/HerokuChallenge%20-%20Selenium_.NET_SpecFlow/_release?_a=releases&view=mine&definitionId=1
+Azure DevOps project can be found using this link and the project is public so users will be able to view the Build & Release pipelines along with test results.
+Lastly - I've noticed that if you are not signed into Azure DevOps the release sometimes does not allow you to view the Test Logs so I have included screenshots within this ReadMe to demo:
+https://dev.azure.com/adammcclintock0222/HerokuChallenge%20-%20Selenium_.NET_SpecFlow/_release?_a=releases&view=mine&definitionId=1
 
 ![image](https://user-images.githubusercontent.com/58269427/216592128-24beee62-6846-4485-af4b-adc09c53eec9.png)
 
 NOTE: AXE Acessibility test will almost always fail due to the Heroku Challenging DOM page not being developed with accessibility in mind, I'd be surprised if we ever see that test passing :) 
-
-Lastly - I've noticed that if you are not signed into Azure DevOps the release sometimes does not allow you to view the Test Logs so I have included screenshots within this ReadMe to demo:
 
 UI Tests - 11 Total - 100% Pass:
 
