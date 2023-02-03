@@ -13,7 +13,7 @@ Tags also added to denote specific test types/areas - currently only 3 tags in u
 12 Tests in total covering the below scenarios:
 
 1.	Navigate to Challenging DOM Page
-2.	Confirming the blue botton is clickable
+2.	Confirming the blue button is clickable
 3.	Confirming the red button is clickable
 4.	Confirming the green button is clickable
 5.	Validating the canvas is displayed
