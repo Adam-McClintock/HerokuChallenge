@@ -2,7 +2,7 @@
 
 https://the-internet.herokuapp.com/challenging_dom
 
-Automated tests created for the Challenging DOM web page, using .NET, Selenium, SpecFlow & Visual Studio. Utilising Chrome Driver and currently using version 106 (Important to update this before running tests on your own machine as you may be using a different version of Chrome than myself).
+Automated tests created for the Challenging DOM web page, using .NET, Selenium, SpecFlow & Visual Studio. Utilising Chrome Driver and currently using version 106 *(Important to update this before running tests on your own machine as you may be using a different version of Chrome than myself)*.
 
 Also, included some additional code to cover Firefox and Edge should you wish to expand upon this framework.
 
