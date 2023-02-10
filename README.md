@@ -47,4 +47,3 @@ I've also included a HTML report that is attached upon an accessibility test fai
 ![image](https://user-images.githubusercontent.com/58269427/216593928-d993708f-8e01-42b6-8058-09af7de32896.png)
 
 ![image](https://user-images.githubusercontent.com/58269427/216594357-e780d589-be52-4457-ac90-cb39b52a435a.png)
-
