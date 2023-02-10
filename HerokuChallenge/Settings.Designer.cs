@@ -110,8 +110,7 @@ namespace HerokuChallenge {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=G02UKXN12898;Initial Catalog=AdventureWorks2019;Integrated Security=T" +
-            "rue")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Input connection string")]
         public string ConnectionString {
             get {
                 return ((string)(this["ConnectionString"]));
